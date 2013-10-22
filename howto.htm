@@ -1,6 +1,88 @@
-<html>
-        <body>
-                <h2>For techies</h2>
+	<html>
+	<head>
+	<title>European Library Automation Group</title>
+    <link rel="stylesheet" href="elag.css" type="text/css">
+    <link rel="stylesheet" href="elagprint.css" type="text/css" media="print" />
+	<script language="javascript" type="text/javascript" src="./elagmenu.js"></script>
+	</head>
+	<body>
+<!-- Page header with "logo" -->
+
+
+<div id="mainContainer">
+<table>
+<tbody>
+<tr valign="left">
+<td width="2%">&nbsp;</td>
+<td width="20%">
+<font color="#104a94" face="Tahoma, Arial, Verdana">
+<font size="+2"><font color="darkorange">E</font>uropean</font><br>
+<font size="+2"><font color="darkorange">L</font>ibrary</font><br>
+<font size="+2"><font color="darkorange">A</font>utomation</font><br>
+<font size="+2"><font color="darkorange">G</font>roup</font>
+</font></td>
+<td width="80%">
+<img style="width: 426px; height: 187px;" alt="ELAG" src="elag.png"><br>
+</td>
+</tr>
+</tbody>
+</table>
+	
+	
+	<!-- MENU STARTS -->
+	
+	<div id="leftColumn">
+	
+		<br/>
+		<ul id="dhtmlgoodies_listMenu">
+		    <li><a href="#">2013 Conference</a>
+				<ul>
+					<li><a href="homepage.htm">General information</a></li>
+					<li><a href="subthemes.htm">Subthemes</a></li>
+				</ul>
+			</li>
+			
+			<li><a href="#">Calls for proposals</a>
+				<ul>
+					<li><a href="callp.htm">Presentations</a></li>
+					<li><a href="callbc.htm">Boot camps</a></li>
+					<li><a href="callw.htm">Workshops</a></li>
+				</ul>		
+			<li>
+			<li><a href="#">Guidelines</a>
+				<ul>
+					<li><a href="guidep.htm">Presentations</a></li>
+					<li><a href="guidebc.htm">Boot camps</a></li>
+					<li><a href="guidew.htm">Workshops</a></li>
+				</ul>
+			</li>
+			<li><a href="#">About</a>
+				<ul>
+					<li><a href="about.htm">About ELAG</a></li>
+					<li><a href="pastconf.htm">Past conferences</a></li>
+					<li><a href="contact.htm">Contact</a></li>
+				</ul>			
+			</li>
+		</ul>
+	</div>
+	
+	<!-- MENU ENDS -->
+	
+	<div id="mainContent">
+	
+   <h1>Howto edit the site</h1>
+                <h2>1. Become a contributor</h2>
+                <ul>
+                        <li>Create a github account: <a href="http://github.com">http://github.com</a>.</li>
+                        <li>Ask for permission to edit the website: mail me at patrick dot hochstenbach at ugent dot be</li>
+                </ul>
+
+                <h2>2. Choose one of these</h2>
+                <h3>A. For the less techies</h3>
+
+                <p>Go to <a href="https://github.com/elag/elag.github.io">https://github.com/elag/elag.github.io</a> and change the HTML code manually</p>
+
+                <h3>B. For the real techies</h3>
                 <p>
                 Checkout the github project:
                 </p>
@@ -16,5 +98,38 @@ $ git clone https://github.com/elag/elag.github.io
 $ cd elag.github.io
                 </pre>
 
-        </body>
-</html>
+                <p>
+                Create, edit, delete the files. And dont forget the basics of git:
+                </p>
+
+                <pre>
+# When you add a new file or directory to this project
+$ git add file
+$ git add directory
+
+# When you delete a file from this project
+$ git rm file
+                </pre>
+
+                <p>
+                And of course, tell us of all the changes you have made:
+                </p>
+
+                <pre>
+# Commit the changes
+$ git commit -a
+# Check if you are still up to date with the remote repository
+$ git pull
+# Push the changes to the remote repository
+$ git push
+                </pre>
+
+                <p>
+                That's it :-)!
+                </p>
+	</div>
+
+</div>
+
+	</body>
+	</html>
