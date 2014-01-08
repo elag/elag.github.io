@@ -1,0 +1,126 @@
+<html>
+	<head>
+		<title>European Library Automation Group</title>
+		<link rel="stylesheet" href="http://www.elag.org/elag.css" type="text/css">
+			<link rel="stylesheet" href="http://www.elag.org/elagprint.css" type="text/css" media="print" />
+			<script language="javascript" type="text/javascript" src="http://www.elag.org/./elagmenu.js"></script>
+	</head>
+	<body>
+		
+		<!-- Page header with "logo" -->
+		
+		
+		<div id="mainContainer">
+			<table>
+				<tbody>
+					<tr valign="left">
+						<td width="2%">&nbsp;</td>
+						<td width="20%">
+							<font color="#104a94" face="Tahoma, Arial, Verdana">
+								<font size="+2"><font color="darkorange">E</font>uropean</font><br>
+									<font size="+2"><font color="darkorange">L</font>ibrary</font><br>
+										<font size="+2"><font color="darkorange">A</font>utomation</font><br>
+											
+											<font size="+2"><font color="darkorange">G</font>roup</font>
+							</font></td>
+						<td width="80%">
+							<img style="width: 426px; height: 187px;" alt="ELAG" src="http://www.elag.org/elag.png"><br>
+						</td>
+					</tr>
+				</tbody>
+			</table>
+			
+			<!-- MENU STARTS -->
+			
+			<div id="leftColumn">
+				
+				<br/>
+				<ul id="dhtmlgoodies_listMenu">
+					
+					<li><a href="#">2012 Conference</a>
+						<ul>
+							<li><a href="homepage.htm">General information</a></li>
+						</ul>
+					</li>
+					<li><a href="#">2011 Conference</a>
+						<ul>
+							
+							<li><a href="2011theme.htm">General information</a></li>
+						</ul>
+					</li>
+					<li><a href="#">Calls for proposals</a>
+						<ul>
+							<li><a href="callp.htm">Presentations</a></li>
+							<li><a href="callbc.htm">Boot camps</a></li>
+							
+							<li><a href="callw.htm">Workshops</a></li>
+						</ul>		
+						<li>
+							<li><a href="#">Guidelines</a>
+								<ul>
+									<li><a href="guidep.htm">Presentations</a></li>
+									<li><a href="guidebc.htm">Boot camps</a></li>
+									
+									<li><a href="guidew.htm">Workshops</a></li>
+								</ul>
+							</li>
+							<li><a href="#">About</a>
+								<ul>
+									<li><a href="about.htm">About ELAG</a></li>
+									<li><a href="pastconf.htm">Past conferences</a></li>
+									
+									<li><a href="contact.htm">Contact</a></li>
+								</ul>			
+							</li>
+				</ul>
+			</div>
+			
+			<!-- MENU ENDS -->
+			
+			<div id="mainContent">
+				<h1>Call for proposals:</h1>
+				
+				<h2>Pre-Conference Bootcamps - 15 May, 2012</h2>
+				<h3>Palma de Mallorca, Spain</h3>
+				<ul>
+					<li>Are you a library hacker who has found new ways to leverage library data to build 21st century services?</li>
+					<li>Are you a systems implementer boosting productivity by rapidly building innovative applications?</li>
+					<li>Do you think you've found a better way to create or deliver information for library users?</li>	
+				</ul>
+				<p>
+					A programme of optional Bootcamps offer ELAG participants the opportunity to learn new skills or enhance their knowledge of specific topics related 
+					to library technology. These Bootcamps provide participants a way to learn from experts and veterans in a particular domain. 
+					Hands-on and fast-paced,  these Bootcamps give a primer on the most up-to-date practices in library automation and provide insights into new, 
+					upcoming technologies. Bootcamp leaders have the opportunity to present their work, test their applications in new contexts and find collaboration partners.
+				</p>
+				<p><b>Please share your expertise, show what you can do, and meet with other library enthusiasts.</b></p>
+				<p><a href="http://www.elag.org/guidebc.htm">Guidelines for Bootcamp leaders are available</a></p>
+				<p>Last year's event saw lively discussions and developments on topics such as Solr indexing, 
+					RDFa, Digital curation and the jQuery library. </p>
+				<p>	For inspiration about topics for your workshop at this year's ELAG conference, <a href="http://www.elag.org">see the sub-themes page.</a>
+				</p>
+				<p>Elag 2012 will be hosted by the Universitat de les Illes Balears (<a href="http://www.uib.es">www.uib.es</a>) in Palma de Mallorca, Spain.</p>
+				<p>To propose a Bootcamp, please complete out the form below and send to: Peter van Boheemen (peter.vanboheemen@wur.nl), Chair of the ELAG 2012 Programme Committee				</p>
+				<p>All proposals will be reviewed by the ELAG 2012 Programme Committee</p>
+				<p>The deadline for proposals is Wednesday 1st February 2012. </p>
+				<p>The results of the review process will be sent by Thursday 16th February 2012. </p>
+				
+				
+				
+				<h2>Format of the proposal</h2>
+				
+				Pre-conference Bootcamp Title:<br/>
+				Name(s):<br/>
+				Expected time slot:<br/>
+				
+				Audience:<br/>
+				Expertise:<br/>
+				Required:<br/>
+				Programming experience:<br/>
+				Short description:<br/>
+			</div>
+			
+		</div>
+		
+	</body>
+</html>
