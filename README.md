@@ -19,3 +19,8 @@ Creates a `public` folder with the static content.
 ```
 hugo
 ```
+
+### Github
+
+See `.github/worlflows/hugo.yaml`
+
