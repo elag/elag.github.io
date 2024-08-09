@@ -36,6 +36,8 @@ The [ELAG programme committee](/about/) will provide:
 - Program chairs and moderators.
 - Assistance of organizers with lessons learned from previous conferences.
 
+For more information we refer to our [ELAG Wiki](https://github.com/elag/elag.github.io/wiki)
+
 ## Who to contact
 
 For any questions contact: 
