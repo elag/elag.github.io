@@ -20,6 +20,14 @@ Creates a `public` folder with the static content.
 hugo
 ```
 
+View the website locally:
+
+```
+hugo server
+```
+
+and browse to http://localhost:1313/
+
 ### Github
 
 See `.github/worlflows/hugo.yaml`
