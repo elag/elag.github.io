@@ -25,9 +25,9 @@ As an organizer of ELAG 2025 you will:
 - 4-8 smaller break out rooms for workshops and bootcamps.
 - Optional organize a welcome reception.
 - Organize a conference dinner.
-- Create a conference website and registration and payment solution
-- Find sponsorship for the conference
-- Provide a local organizing committee
+- Create a conference website and registration and payment solution.
+- Find sponsorship for the conference.
+- Provide a local organizing committee.
 
 The [ELAG programme committee](/about/) will provide:
 
