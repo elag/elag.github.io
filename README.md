@@ -30,5 +30,5 @@ and browse to http://localhost:1313/
 
 ### Github
 
-See `.github/worlflows/hugo.yaml`
+See `.github/workflows/hugo.yaml`
 
