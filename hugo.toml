@@ -1,4 +1,4 @@
-baseURL = 'https://elag.github.io/'
+baseURL = 'https://www.elag.org/'
 languageCode = 'en-us'
 title = 'ELAG'
 theme = 'whiteplain'
