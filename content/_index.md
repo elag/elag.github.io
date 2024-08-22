@@ -40,4 +40,4 @@ For more information we refer to our [ELAG Wiki](https://github.com/elag/elag.gi
 
 ## Who to contact
 
-For any questions contact: 
+For any questions contact: Joost Vaningen <joost.vaningen@wur.nl>
