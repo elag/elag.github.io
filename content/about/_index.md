@@ -26,8 +26,8 @@ Please introduce yourself or send an email to the *ELAG Programme Committee*:
 - Aline Provost
 - Vitali Peil
 - Johann Rolschewski
-- Joost Vaningen
+- Joost van Ingen
 
-Contact address: Joost Vaningen <joost.vaningen@wur.nl>
+Contact address: Joost van Ingen <joost.vaningen@wur.nl>
 
  
