@@ -28,5 +28,6 @@ Please introduce yourself or send an email to the *ELAG Programme Committee*:
 - Johann Rolschewski
 - Joost Vaningen
 
-Contact address: 
+Contact address: Joost Vaningen <joost.vaningen@wur.nl>
+
  
