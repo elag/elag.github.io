@@ -51,6 +51,6 @@ Past conferences
 *   6\. Library Networks, Oslo (Norway), 9 - 11 June 1982 \[[PDF](http://k4.techlib.cz/search/i.jsp?pid=uuid:c181f230-d559-11e1-9b23-0800200c9a66)\]
 *   5\. Database Management Systems, Brussels (Belgium) , 14 - 16 October 1981 \[[PDF](http://k4.techlib.cz/search/i.jsp?pid=uuid:2d660e00-d4ce-11e1-9b23-0800200c9a66)\]
 *   4\. Hierarchical Relationships in Bibliographic Descriptions , Essen (Germany) , 25 - 27 March 1981 \[[PDF](http://k4.techlib.cz/search/i.jsp?pid=uuid:cc5c7ea0-d4d2-11e1-9b23-0800200c9a66)\]
-*   3\. Lausanne (France) , 4 - 6 June 1980 \[[PDF](http://k4.techlib.cz/search/handle/uuid:896a2a30-4eb9-11e4-916c-0800200c9a66)\]
+*   3\. Lausanne (Switzerland) , 4 - 6 June 1980 \[[PDF](http://k4.techlib.cz/search/handle/uuid:896a2a30-4eb9-11e4-916c-0800200c9a66)\]
 *   2\. London (United Kingdom) , 24 - 26 October 1979 \[[PDF](http://k4.techlib.cz/search/handle/uuid:05356b90-4ebd-11e4-916c-0800200c9a66)\]
 *   1\. Copenhagen (Denmark) , 17 - 18 May 1979 \[[PDF](http://k4.techlib.cz/search/handle/uuid:bd5a6c10-4ebe-11e4-916c-0800200c9a66)\]
